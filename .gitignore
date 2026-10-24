@@ -1,0 +1,19 @@
+
+# Arquivos gerados pelo Maven
+target/
+
+# Configurações locais do NetBeans
+nbproject/private/
+
+# Arquivos de IDE
+.idea/
+.vscode/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.class
+
+# Arquivos de ambiente e credenciais
+.env
+.env.*
